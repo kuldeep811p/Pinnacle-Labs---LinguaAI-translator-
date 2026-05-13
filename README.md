@@ -32,5 +32,3 @@ LinguaAI is a sleek, browser-based translation application that breaks language 
 6. **Listen** using 🔊 buttons, **copy** with 📋, or **swap** languages with ⇄
 
 > 💡 **No installation, no API keys, no backend required!**
-
----
