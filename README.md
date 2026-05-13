@@ -2,7 +2,6 @@
 
 LinguaAI is a sleek, browser-based translation application that breaks language barriers with real-time AI-powered translations. Supporting **100+ languages**, it offers a beautiful dual-panel interface, text-to-speech functionality, translation history, and smart offline fallbacks — all without requiring any API keys.
 
-
 ---
 
 ## ✨ Features
